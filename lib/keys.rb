@@ -9,5 +9,5 @@ groceries = {
 }
 
 def get_the_keys(groceries)
-  puts get_the_keys(groceries)
+ 
 end
